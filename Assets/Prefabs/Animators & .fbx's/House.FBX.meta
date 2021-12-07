@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 36e6f3ade20d87a498d5ad0b4dc5148f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: DoorFrame
+    100002: FirePlace
+    100004: //RootNode
+    100006: House
+    100008: HouseBaseSupports
+    100010: HouseFrame
+    100012: Roof
+    100014: Roof01
+    100016: RoofSupports
+    100018: SmlRoofSupports
+    100020: WindowFrame
+    400000: DoorFrame
+    400002: FirePlace
+    400004: //RootNode
+    400006: House
+    400008: HouseBaseSupports
+    400010: HouseFrame
+    400012: Roof
+    400014: Roof01
+    400016: RoofSupports
+    400018: SmlRoofSupports
+    400020: WindowFrame
+    2300000: DoorFrame
+    2300002: FirePlace
+    2300004: House
+    2300006: HouseBaseSupports
+    2300008: HouseFrame
+    2300010: Roof
+    2300012: Roof01
+    2300014: RoofSupports
+    2300016: SmlRoofSupports
+    2300018: WindowFrame
+    3300000: DoorFrame
+    3300002: FirePlace
+    3300004: House
+    3300006: HouseBaseSupports
+    3300008: HouseFrame
+    3300010: Roof
+    3300012: Roof01
+    3300014: RoofSupports
+    3300016: SmlRoofSupports
+    3300018: WindowFrame
+    4300000: House
+    4300002: Roof
+    4300004: FirePlace
+    4300006: HouseBaseSupports
+    4300008: HouseFrame
+    4300010: DoorFrame
+    4300012: WindowFrame
+    4300014: Roof01
+    4300016: RoofSupports
+    4300018: SmlRoofSupports
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
